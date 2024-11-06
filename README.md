@@ -1,6 +1,13 @@
 # Time Series Forecasting with Prophet
 =====================================
 
+![Project Screenshot](images\time-series-forecasting-using-prophet.png)
+
+### Live Demo
+-------------
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://debopam-pritam2014-time-series-forecasting-using-pro-app-9cn98u.streamlit.app/)
+
 ## Overview
 ------------
 
