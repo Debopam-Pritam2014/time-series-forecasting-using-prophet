@@ -78,3 +78,8 @@ For any questions or suggestions, please contact [Your Name] at [letsdecode2014@
 
 
 ### Requirements.txt
+- prophet
+- pandas
+- matplotlib
+- yfinance
+
