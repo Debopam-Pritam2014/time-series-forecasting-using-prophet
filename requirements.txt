@@ -1,0 +1,7 @@
+streamlit
+streamlit-option-menu
+prophet
+numpy
+pandas
+matplotlib
+seaborn
