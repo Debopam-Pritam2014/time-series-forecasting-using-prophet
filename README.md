@@ -1,7 +1,7 @@
 # Time Series Forecasting with Prophet
 =====================================
 
-![Project Screenshot](images\time-series-forecasting-using-prophet.png)
+![Project Screenshot](./images/time-series-forecasting-using-prophet.png)
 
 ### Live Demo
 -------------
